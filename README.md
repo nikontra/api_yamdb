@@ -184,3 +184,6 @@ POST /api/v1/titles/{title_id}/reviews/{review_id}/comments/
 GET /api/v1/titles/{title_id}/reviews/{review_id}/comments/
 ```
 <br/>
+
+### Авторы
+Третьяков Николай, Алёна Завгородняя, Алексей Жигалов
